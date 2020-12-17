@@ -7,8 +7,7 @@ A Minecraft client for anarchy servers like 2b2t. Its not an open source yet :(
 [![Downloads](https://img.shields.io/github/downloads/HuddleX/Seyfert/total?color=EA4AAA&label=Seyfert%20downloads%20this%20week&logo=github)](https://github.com/HuddleX/Seyfert/releases)
   
 ## Capes  
-The Donators.json file doesn't include donators! it includes people with capes!  
-You can request a cape <a href="https://bit.ly/375qeLn" target="_blank">here</a>.  
+Fuck off
 
 ## Support  
 Join the discord for 24 hour support!  
